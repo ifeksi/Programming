@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="storyTitles">
+        <item>Історія про брата</item>
+        <item>Історія години</item>
+        <item>Казка про кролика Петрика</item>
+        <item>Історія про черницю</item>
+        <item>Історія виправдання брата</item>
+        <item>Історія години</item>
+        <item>Казка про кролика Петрика</item>
+        <item>Історія про черницю</item>
+        <item>Історія виправдання брата</item>
+        <item>Історія години</item>
+        <item>Казка про кролика Петрика</item>
+        <item>Історія про черницю</item>
+    </string-array>
+</resources>
